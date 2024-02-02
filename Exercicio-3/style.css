@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+section{
+    display: flex;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    
+}
+
+
+nav {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+a {
+    align-items: center;
+    text-decoration: none;
+    color: aliceblue;
+    justify-content: space-between;
+    margin-right: 70px;
+    transition: 1.2s ease-in;
+    border-radius: 12px;
+    background-size: 13px;
+}
+
+#corpo {
+    margin-top: 57px; /* Adiciona um espaço no topo para evitar sobreposição com o header */
+    padding: 0px; /* Adapte conforme necessário */
+    box-sizing: border-box;
+    display: flex;
+}
+
+a:hover{
+    color: aliceblue;
+    background-color: rgb(70, 78, 78);
+    background-size: 17px;
+   
+}
+
+p{
+    align-items: center;
+    flex-direction: column;
+    background-color: yellow;
+    border: 1px solid #000;
+}

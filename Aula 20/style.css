@@ -1,0 +1,23 @@
+#ob-menu{
+    width: 800px;
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+    background-color: #008;
+    color: #fff;
+    padding: 0px;
+    margin: 0px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 400px;
+    height: 100px;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: rgb(36, 36, 63);
+}

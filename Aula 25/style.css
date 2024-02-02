@@ -1,0 +1,22 @@
+div{
+    float: left;
+
+    width: 200px;
+    height: 200px;
+    background-color: #ddd;
+
+    display: inline-block;
+}
+
+#dv1{
+    border: 20px solid #000;
+    margin-right: 0px;
+    outline-color:#f00 ;
+    outline-style: solid;
+    outline-width: 20px;
+}
+
+#dv2{
+    width: 400px;
+    height: 400px;
+}

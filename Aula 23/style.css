@@ -1,0 +1,26 @@
+ol{
+    list-style: none;
+    font-size: 25px;
+    padding: 0px;
+}
+
+li{
+    width: 200px;
+    height: 40px;
+    background-color: #800;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    border-right: 1px solid #000;
+}
+
+li:hover{
+    cursor:pointer;
+    background-color: rgb(185, 7, 7);
+}
+
+
+a{
+    text-decoration: none;
+    color: #FFF;
+}

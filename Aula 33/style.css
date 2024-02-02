@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    border: 1px solid #000;
+    background: #ddd;
+}
+
+#d0{
+    background: #eef;
+    position: static;
+}
+
+#d1,#d2{
+    width: 300px;
+    height: 150px;
+}
+
+#d1{
+    position: static;
+}
+
+#d2{
+    position: absolute;
+    top: 1px;
+    left: 301px;
+}
+

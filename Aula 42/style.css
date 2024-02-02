@@ -1,0 +1,13 @@
+p{
+    width: 400px;
+    height: 400px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+    columns: 2;
+    overflow: visible;
+    -webkit-columns: 2;
+    column-gap: 20px;
+    column-rule: 10px  outset #000;
+}

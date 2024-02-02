@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/468/274/desktop-wallpaper-eagle-landscape-mountains-minimalist-artist-background-and.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ini{
+    margin-top: 10px;
+    background-color: antiquewhite;
+    display: inline-block;
+    border-radius: 18px;
+}

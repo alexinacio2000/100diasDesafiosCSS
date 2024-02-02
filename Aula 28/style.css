@@ -1,0 +1,9 @@
+section{
+    border: 1px solid #f00;
+    display: flex;
+    flex-wrap: nowrap;
+}
+div{
+    border: 1px solid #000;
+    flex: 1;
+}

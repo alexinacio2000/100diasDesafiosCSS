@@ -1,0 +1,14 @@
+section{
+    border: 1px solid #f00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+    height: 200px;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+div{
+    border: 1px solid #000;
+    width: 100px;
+}

@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}
+
+div{
+    border: 1px solid #000;
+    
+}
+
+p{
+    text-align: center;
+}
+
+#dv1{
+    margin: 0px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+#dv2{
+    margin-right: 170px;
+    margin-left: 170px;
+
+}

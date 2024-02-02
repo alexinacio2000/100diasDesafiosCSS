@@ -1,0 +1,9 @@
+body{
+    background-image: url('wal.jpg');
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: contain;
+    width: 110vw;
+    height: 150vh;
+    justify-content: center;
+}

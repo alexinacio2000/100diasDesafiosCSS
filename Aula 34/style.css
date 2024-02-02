@@ -1,0 +1,17 @@
+img{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+}
+
+#img1{
+    float: left;
+}
+
+#img2{
+    float: right;
+}
+
+.fix{
+    clear: both;
+}

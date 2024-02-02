@@ -1,0 +1,66 @@
+.container{
+  display: flex;
+  align-items: center;
+  
+}
+.barca{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+}
+
+.Liver{
+  width: 200px;
+  height: 300px;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+  display: table-cell;
+}
+
+.real{
+  width: 260px;
+  height: 300px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+}
+
+.barca{
+  width: 200px;
+  height: 200px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+}
+
+.barca:hover {
+  transform: scale(1.1);
+}
+
+.Liver:hover {
+  transform: scale(1.1);
+}
+
+.real:hover {
+  transform: scale(1.1);
+  
+}
+
+body{
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+body + .barca:hover{
+  background-image: url(./Joao_Felix.png) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

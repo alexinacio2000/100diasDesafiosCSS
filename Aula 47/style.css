@@ -1,0 +1,11 @@
+img{
+    width: 400px;
+    height: 400px;
+    
+}
+
+img:hover{
+    filter: sepia(70%) brightness(60%);
+    
+    
+}

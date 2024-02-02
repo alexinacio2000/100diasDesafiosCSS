@@ -1,0 +1,27 @@
+div{
+    border: 1px solid #000;
+    background-color: tomato;
+    width: 200px;
+    height: 200px;
+    display: table-cell;
+    text-align: center;
+    line-height: 200px;
+}
+
+ol, ul, li{
+    border: 1px solid #000;
+    padding: 0px;
+    margin: 0px;
+}
+
+ol{
+    display: table;
+}
+
+ul{
+    display: table-row;
+}
+
+li{
+    display: table-cell;
+}

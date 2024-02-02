@@ -1,0 +1,11 @@
+p{
+    font-size: 50px;
+}
+div{
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    width: 500px;
+    height: 500px;
+    background-color:rgba(255, 123, 187, 0.8);
+}

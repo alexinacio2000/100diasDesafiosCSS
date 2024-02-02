@@ -1,0 +1,11 @@
+body{
+    background-image: url("ps4.png"), url("game.png");
+    background-repeat: no-repeat;
+    background-size: 400px, 500px,;
+    background-attachment: scroll,fixed;
+}
+
+p{
+    font-size: 18px;
+    color: white;
+}

@@ -1,0 +1,33 @@
+section{
+    border: 1px solid #f00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+div{
+    border: 1px solid #000;
+    height: 50px;
+    flex: 1;
+}
+
+#d1{
+    order: 1;
+}
+#d2{
+    order: 2;
+}
+#d3{
+    order: 3;
+}
+#d4{
+    order: 4;
+}
+#d5{
+    order: 5;
+}
+#d6{
+    order: 6;
+}
